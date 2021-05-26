@@ -99,7 +99,7 @@ while (true){
             return new Promise(resolve => setTimeout(resolve, milliseconds))
         }
 
-        sleep(5000).then(() => {
+        sleep(8000).then(() => {
             // opens the url in the default browser 
             open(starterRecipe);
             open(mainRecipe);
