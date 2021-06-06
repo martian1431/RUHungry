@@ -28,7 +28,7 @@ This essentially allowing users to build out the menu object and customise it wi
  
 #### Future Goals/Improvements ✈️:
 
-I would like to nake this into a web app, that offers more customisation for users.     
+I would like to make this into a web app, that offers more customisation for users.     
 I would like to also add features that allow for ranking of the dishes and for dishes to be removed if they were not    
 liked by the user. 
 
